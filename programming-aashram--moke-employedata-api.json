@@ -1,0 +1,136 @@
+{
+   "status":"ok",
+   "totalResults":10,
+   "articles":[
+      {
+         "source":{
+            "id":"techcrunch",
+            "name":"TechCrunch"
+         },
+         "author":"Ingrid Lunden",
+         "title":"Rohlik raises $119M at a $1.2B valuation to grow its 2-hour grocery delivery service in Europe",
+         "description":"“Instant” grocery delivery has been a big theme among food startups in Europe, where customers can order from a limited assortment of items and get their purchases packed from “dark stores” and delivered in sometimes as little as 10 or 15 minutes. But today a…",
+         "url":"https://techcrunch.com/2021/06/30/rohlik-raises-119m-at-a-1-2b-valuation-to-grow-its-2-hour-grocery-delivery-service-in-europe/",
+         "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/03/Rohlik.cz_courier_2.jpg?w=600",
+         "publishedAt":"2021-07-01T04:59:53Z",
+         "content":"“Instant” grocery delivery has been a big theme among food startups in Europe, where customers can order from a limited assortment of items and get their purchases packed from “dark stores” and deliv… [+5787 chars]"
+      },
+      {
+         "source":{
+            "id":"techcrunch",
+            "name":"TechCrunch"
+         },
+         "author":"Connie Loizos",
+         "title":"Uber's first head of data science just launched a new venture fund to back nascent AI startups",
+         "description":"Kevin Novak joined Uber as its 21st employee its seventh engineer in 2011, and by 2014, he was the company’s head of data science. He transitioned out of the company in late 2017, after Travis Kalanick had been replaced as CEO by Dara Khosrowshahi. But by the…",
+         "url":"https://techcrunch.com/2021/06/30/ubers-first-head-of-data-science-just-launched-a-new-venture-fund-to-back-nascent-ai-startups/",
+         "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-30-at-5.19.36-PM.png?w=697",
+         "publishedAt":"2021-07-01T00:21:07Z",
+         "content":"Kevin Novak joined Uber as its 21st employee its seventh engineer in 2011, and by 2014, he was the company’s head of data science. He transitioned out of the company in late 2017, after Travis Kalani… [+8790 chars]"
+      },
+      {
+         "source":{
+            "id":"techcrunch",
+            "name":"TechCrunch"
+         },
+         "author":"Mike Butcher",
+         "title":"Nodes & Links raises $11M to — maybe — save billions on the big projects the world needs now",
+         "description":"Nodes & Links is a scheduling platform for large-scale infrastructure projects which works out when the nuts and bolts for the bridge (for example) should be delivered, and in what order. Unsurprisingly, complex infrastructure projects often gets this wrong. …",
+         "url":"https://techcrunch.com/2021/06/30/nodes-links-raises-11m-to-maybe-save-billions-on-the-big-projects-the-world-needs-now/",
+         "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/06/Nodes-Links-Christos-and-Greg-2.jpg?w=711",
+         "publishedAt":"2021-06-30T23:05:56Z",
+         "content":"Nodes &amp; Links is a scheduling platform for large-scale infrastructure projects which works out when the nuts and bolts for the bridge (for example) should be delivered, and in what order. Unsurpr… [+2346 chars]"
+      },
+      {
+         "source":{
+            "id":"techcrunch",
+            "name":"TechCrunch"
+         },
+         "author":"Mike Butcher",
+         "title":"VividQ, which has raised $15M, says it can turn normal screens into holographic displays",
+         "description":"VividQ, a UK-based deeptech startup with technology for rendering holograms on legacy screens, has raised $15 million to develop its technology for next-generation digital displays and devices. And it’s already lining up manufacturing partners in the US, Chin…",
+         "url":"https://techcrunch.com/2021/06/30/vividq-which-has-raised-15m-says-it-can-turn-normal-screens-into-holographic-displays/",
+         "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/06/VividQ-C-Suite-1.jpg?w=600",
+         "publishedAt":"2021-06-30T23:00:11Z",
+         "content":"VividQ, a UK-based deeptech startup with technology for rendering holograms on legacy screens, has raised $15 million to develop its technology for next-generation digital displays and devices. And i… [+3076 chars]"
+      },
+      {
+         "source":{
+            "id":"techcrunch",
+            "name":"TechCrunch"
+         },
+         "author":"Alex Wilhelm",
+         "title":"Daily Crunch: Insecure server exposes Byju’s students' names, phone numbers, emails and more",
+         "description":"Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+         "url":"https://techcrunch.com/2021/06/30/daily-crunch-26/",
+         "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/06/data_breach.jpg?w=702",
+         "publishedAt":"2021-06-30T22:10:35Z",
+         "content":"To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here.\r\nHello and welcome to Daily Crunch for June 30, 2021. Its the last … [+5315 chars]"
+      },
+      {
+         "source":{
+            "id":"techcrunch",
+            "name":"TechCrunch"
+         },
+         "author":"Lucas Matney",
+         "title":"Lego should snap up this rapid-fire brick-finding iOS app",
+         "description":"Lego has worked extremely closely with Apple over the years, experimenting with unreleased iOS tech and demoing it onstage at launch events like WWDC; this has included some pretty heavy tinkering on the augmented reality ARKit platform which they’ve integrat…",
+         "url":"https://techcrunch.com/2021/06/30/lego-should-snap-up-this-rapid-fire-brick-finding-ios-app/",
+         "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-30-at-3.02.47-PM.png?w=764",
+         "publishedAt":"2021-06-30T21:12:44Z",
+         "content":"Lego has worked extremely closely with Apple over the years, experimenting with unreleased iOS tech and demoing it onstage at launch events like WWDC; this has included some pretty heavy tinkering on… [+2581 chars]"
+      },
+      {
+         "source":{
+            "id":"techcrunch",
+            "name":"TechCrunch"
+         },
+         "author":"Geoffrey Moore",
+         "title":"Dispense with the chasm? No way!",
+         "description":"Pragmatic customers are being forced to adopt because they are under duress. It is not that they buy into the vision of software eating the world. It is because their very own lunches are being eaten.",
+         "url":"https://techcrunch.com/2021/06/30/dispense-with-the-chasm-no-way/",
+         "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-942119910.jpg?w=599",
+         "publishedAt":"2021-06-30T21:02:19Z",
+         "content":"Jeff Bussgang, a co-founder and general partner at Flybridge Capital, recently wrote an Extra Crunch guest post that argued it is time for a refresh when it comes to the technology adoption life cycl… [+2342 chars]"
+      },
+      {
+         "source":{
+            "id":"techcrunch",
+            "name":"TechCrunch"
+         },
+         "author":"Aria Alamalhodaei",
+         "title":"SpaceX delivers 88 satellites to orbit, lands first stage onshore for first time in 2021",
+         "description":"SpaceX launched 85 satellites for external customers, as well as three Starlink satellites, to orbit on Tuesday, marking the second successful launch of the company’s dedicated rideshare missions. While the Transporter-2 mission will deliver fewer objects to …",
+         "url":"https://techcrunch.com/2021/06/30/spacex-delivers-88-satellites-to-orbit-lands-first-stage-onshore-for-first-time-in-2021/",
+         "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/06/Jun-30-2021-14-32-44.gif?w=584",
+         "publishedAt":"2021-06-30T19:42:07Z",
+         "content":"SpaceX launched 85 satellites for external customers, as well as three Starlink satellites, to orbit on Tuesday, marking the second successful launch of the company’s dedicated rideshare missions. Wh… [+2254 chars]"
+      },
+      {
+         "source":{
+            "id":"techcrunch",
+            "name":"TechCrunch"
+         },
+         "author":"Rebecca Bellan",
+         "title":"BMW i Ventures announces new $300 million fund to invest in sustainable technology",
+         "description":"BMW i Ventures, the venture capital arm of BMW Group, has announced a new $300 million fund to further its investment in technologies that make transportation, manufacturing and supply chains more sustainable.  The firm doesn’t operate as a traditional corpor…",
+         "url":"https://techcrunch.com/2021/06/30/bmw-i-ventures-announces-new-300-million-fund-to-invest-in-sustainable-technology/",
+         "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/06/i-Ventures-Fund-II.jpg?w=613",
+         "publishedAt":"2021-06-30T19:38:56Z",
+         "content":"BMW i Ventures, the venture capital arm of BMW Group, has announced a new $300 million fund to further its investment in technologies that make transportation, manufacturing and supply chains more su… [+4293 chars]"
+      },
+      {
+         "source":{
+            "id":"techcrunch",
+            "name":"TechCrunch"
+         },
+         "author":"Sarah Perez",
+         "title":"Women's social network Peanut launches microfund StartHER to invest in pre-seed stage startups",
+         "description":"Peanut, the maker of a social networking app for women, is entering into the investing space with today’s launch of a microfund called StartHER. As the name implies, the new fund will focus on investing in women as well as other historically excluded founders…",
+         "url":"https://techcrunch.com/2021/06/30/womens-social-network-peanut-launches-microfund-starther-to-invest-in-pre-seed-stage-startups/",
+         "urlToImage":"https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-30-at-2.40.48-PM.jpg?w=764",
+         "publishedAt":"2021-06-30T19:31:30Z",
+         "content":"Peanut, the maker of a social networking app for women, is entering into the investing space with today’s launch of a microfund called StartHER. As the name implies, the new fund will focus on invest… [+4067 chars]"
+      }
+   ]
+}
